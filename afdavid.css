@@ -1,0 +1,49 @@
+/* Extra css file for personal jemdoc customizations. */
+/* Copyright (C) Jacob Mattingley 2007. */
+/* Further customerized by afdavid for personal website use*/
+
+#mytd {display: block; float:right; clear:both; padding:0px; margin:0px}
+
+#layout-menu {
+	width: 90px;
+}
+
+dl {
+    margin-left: 2em;
+}
+
+a, a > tt {
+	color: #0041a1;
+}
+a:hover {
+	border-bottom: 1px #305080 dotted;
+}
+
+div#toptitle {
+	margin-bottom: 0.1em;
+	border-bottom-color: #0050d5;
+}
+
+h1, h2, h3, #layout-menu a.current:link, #layout-menu a.current:visited {
+	color: #0041a1;
+}
+
+h1, h2, h3 {
+	border-bottom: 1px solid #5797f5;
+}
+
+div#footer-text {
+	padding-bottom: 0;
+}
+
+div.blocktitle {
+	color: #150886;
+}
+
+div.blockcontent {
+	border: 1px solid #d1ccfc;
+}
+
+div#footer-text {
+    padding-bottom: 8px;
+}
